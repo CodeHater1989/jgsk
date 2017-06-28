@@ -11,5 +11,7 @@ object HelloScala {
 
     println(mutable.HashMap("name" -> "peter"))
     println((1, 2, 3, ArrayBuffer("ii", "jj")))
+    println(1 to 30)
+    println(1 until 30)
   }
 }

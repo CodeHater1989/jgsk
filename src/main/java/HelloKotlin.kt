@@ -12,4 +12,6 @@ fun main(args: Array<String>) {
 
     println(Pair(1, 1.1))
     println(Triple(1, 1.1, hashMapOf("ji" to 2)))
+
+    println(1..20)
 }

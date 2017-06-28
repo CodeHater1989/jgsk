@@ -8,5 +8,7 @@ class HelloGroovy {
         println(["one": 1])
         println([:])
         println(new Tuple(1, 2, 3, [1, 23]))
+
+        println(1..30)
     }
 }
